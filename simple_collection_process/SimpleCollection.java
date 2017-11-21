@@ -85,7 +85,7 @@ public class SimpleCollection{
 		}
 	       
 		//Extra Credit
-		Thread.sleep(500); //Hold for 5 milisecond in order to avoid any issue with the Web Throwing a 403 Response.
+		Thread.sleep(500); //Hold for 5 milisecond in order to avoid any issue with the Web Server throwing a 403 Response.
 		Elements img = doc.select("img");
 		int imageNo = 0;
 
