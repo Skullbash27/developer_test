@@ -11,7 +11,7 @@ Run Instructions
 
 1) Ensure that Java is installed in the System and verify its installation by typing 'java -version' in the command line 
 
-2) Add Java enviroment variables by setting JAVA_HOME and the System Path
+2) Add Java environment variables by setting JAVA_HOME and the System Path
 
 	* For Java HOME, type "export JAVA_HOME=<<Location of the jdk directoy in the System>>" in the command line
 	* For System Path, type "export PATH=$PATH:$JAVA_HOME/bin/" in the command line
