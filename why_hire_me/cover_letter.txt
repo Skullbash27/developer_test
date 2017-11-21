@@ -1,0 +1,10 @@
+Dear Jordan,
+
+I am writing this letter to confirm my interest in the Software Engineering position at Independent Financial Partners. I have over 3 years of working experience in the software field from which I have 1.5 years of experience working with Java and 2 years of experience with Python. I also have about 1 year of experience with SQL. These experiences has made me gain strong knowledge of Object Oriented Programming languages and SQL which I believe are the requirements for the position.
+
+Over the years, experience has taught me that passion for the job coupled with perseverance is key to the success of an employee at any work place. I like solving problems and I believe there are multiple ways to solve any problem. I believe that I have the ability work within a team as well as function independently whenever required which I have learnt through my previous work experience. I have a strong desire to keep learning as I go and I’m very passionate about software and programming. Therefore, I believe I would be the right fit for the position and am hoping I will be considered for it.
+
+Thank you,
+Austin
+
+P.S - I have used Java as my language of choice in the simple_refactoring_exercise

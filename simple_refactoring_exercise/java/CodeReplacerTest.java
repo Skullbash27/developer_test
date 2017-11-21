@@ -36,5 +36,4 @@ public class CodeReplacerTest extends TestCase {
 	junit.textui.TestRunner.run (suite());
 	
     }
-
 }

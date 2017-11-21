@@ -1,0 +1,23 @@
+
+Notes:-
+
+1) I refactored the "substituteForCode" method in the CodeReplacer.java file.
+
+2) I removed integer variables which is used for splitting the 'template' String from the template.html file.
+
+3) I also removed the unneccessary String variables which was used to store substrings of the 'template' String.
+
+4) I replaced them by using a much more straight forward find and replace parser with the '.replaceAll' method for the String, that finds a particular String in this case "%CODE% and "%ALTCODE% and replaces it with the given string.
+
+5) This improves spatial complexity and saves memory, as space is not reserved for the 'int' and 'String' additional variables.
+
+6) I also made a small modification in the 'substitute' method where I removed the splitting of the reqID with the '-' and added it to the "substituteForCode" private method so that this process can be encapsulated from the user who wants to use the 'substitute' method which is public
+
+7) CodeReplacerTest.java has not been changed in any manner.
+
+8) Both Tests pass successfully on execution.
+
+
+P.S -> Refactoring this Code was done in the Linux Operating System (Ubuntu) with Java 1.8 installed.
+
+

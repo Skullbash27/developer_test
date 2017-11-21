@@ -1,0 +1,51 @@
+Run Instructions
+
+* Web scrapping and HTML parsing is done using the 'jsoup' external Java library
+
+* Writing to 'csv' file is done through the 'Commons-csv' external Java library
+
+* The program was created using gedit editor in Ubuntu Linux with Java 1.8 installed
+
+* The java version used is Java 1.8
+
+
+1) Ensure that Java is installed in the System and verify its installation by typing 'java -version' in the command line 
+
+2) Add Java enviroment variables by setting JAVA_HOME and the System Path
+
+	* For Java HOME, type "export JAVA_HOME=<<Location of the jdk directoy in the System>>" in the command line
+	* For System Path, type "export PATH=$PATH:$JAVA_HOME/bin/" in the command line
+
+3) Now download jsoup.jar from the following link --> https://jsoup.org/download
+
+	* In that link click "jsoup-1.11.2.jar" to download the jar file
+	* Once downloaded save the jar file to a folder in the system
+
+4) Now set the jsoup environment variables by setting JSOUP_HOME and System Path
+
+	* For Jsoup HOME, type "export JSOUP_HOME=<<Location where the JSOUP jar file is saved>>" in the command line
+	* For System Path, type "export CLASSPATH=$CLASSPATH:$JSOUP_HOME/jsoup-1.11.2.jar:." in the command line
+
+5) Now download commons-csv.jar from the following link --> https://commons.apache.org/proper/commons-csv/download_csv.cgi
+
+	*In that link click "commons-csv-1.5-bin.zip" under Binaries to download the file
+	*Once downloaded, Extract the contents in the zip file into a seperate folder in the system
+	*Among the contents extracted there should be a file named commons-csv-1.5.jar extracted, keep note of that
+
+6) Now set the common-csv environment variables by setting COMMONCSV_HOME and System Path
+
+	* For Commons-csv HOME, type "export COMMONCSV_HOME=<<Location where the commons-csv-1.5.jar file is saved>>" in the command line
+	* For System Path, type "export CLASSPATH=$CLASSPATH:$COMMONCSV_HOME/commons-csv-1.5.jar:." in the command line
+
+7) Now in the same terminal window, change directory ('cd') to the location of the SimpleCollection.java file
+
+8) Now type the command "javac SimpleCollection.java"
+	*After executing the command a file "SimpleCollection.class" will be created
+
+9) Finally type the command "java SimpleCollection" to run the program
+
+10) After the program is run, the csv file "Ouput.csv" will be created in the directory with the required extracted information from the webpage "http://ifpartners.com/cut-the-wire/"
+
+11) A jpg file named "markus-spiske-104910.jpg" will also be created which is for the Extra Credit task
+
+

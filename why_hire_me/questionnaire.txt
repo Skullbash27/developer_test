@@ -1,22 +1,24 @@
 How many years of development experience do you have?
-
+A. I have over 3 years of development experience.
 
 How many years of JavaScript experience do you have?
-
+A. I have 6 months of JavaScript development experience.
 
 How many years of Ruby and/or Rails experience do you have?
-
+A. I do not have any experience with Ruby, but I believe I will be able to learn and grasp it quickly if needed because I have experience with Object Oriented Programming.
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
-
+A. I have over 1.5 years of experience with Java and about 2 years of experience with Python.
 
 What are your opinions on Agile software development?
-
+A. I believe that the Agile form of software development allows all stakeholders  of the software or application to be involved in the development of the software. Constant Collaboration with the customer of the project and bringing in changes when needed by virtue of Scrum meetings or Sprint review meetings, I believe is important to get the best finished product which satisfies all stakeholders. Thus, in my opinion Agile software development is a great approach to developing software and must be considered by software companies for the development of their product.
 
 TDD or BDD?
-
+A. As a developer, I find TDD a reliable format of developing applications because of the fact, that tests are written first and functional code is then written which brings in confidence in the code written. Therefore, I'd go with TDD. However, saying that, BDD gives the programmer an understanding on how the code is functioning and depending on that, changes can be made in Unit Tests accordingly. Hence, I believe a combination of both TDD and BDD would yeild best results when it comes to developing applications.
 
 What are you looking for in a job?
-
+A. I am looking to enhance my skills and contribute to the company I work for and en route, learn from fellow developers/teammates as well as share my knowledge.
 
 When can you start?
+A. I will be graduating from University on the 14th of December, 2017. I have already applied for OPT and am expecting the EAD card to come by the second week of December. Therefore, I should be able start on the 18th of December, 2017. 
+
