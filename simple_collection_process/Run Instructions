@@ -40,6 +40,7 @@ Run Instructions
 7) Now in the same terminal window, change directory ('cd') to the location of the SimpleCollection.java file
 
 8) Now type the command "javac SimpleCollection.java"
+
 	*After executing the command a file "SimpleCollection.class" will be created
 
 9) Finally type the command "java SimpleCollection" to run the program
